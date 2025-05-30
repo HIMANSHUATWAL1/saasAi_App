@@ -1,3 +1,5 @@
+![CodeRabbit Pull Request Reviews](https://img.shields.io/coderabbit/prs/github/HIMANSHUATWAL1/saasAi_App?utm_source=oss&utm_medium=github&utm_campaign=HIMANSHUATWAL1%2FsaasAi_App&labelColor=171717&color=FF570A&link=https%3A%2F%2Fcoderabbit.ai&label=CodeRabbit+Reviews)
+
 # <------------------- PROJECT INITIALIZATION ------------------>
 
 
