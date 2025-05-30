@@ -39,10 +39,34 @@ Add-->install
 
           npx drizzle-kit studio 
 
-7. for pushing and watching changes we create commands on package.json using npn run we can use them -->
+7. for pushing and watching changes we create commands on package.json using npn run we can use them ---->
 
  "db:push": "drizzle-kit push",
  "db:studio": "drizzle-kit studio"
+
+
+
+
+# 03_Authentication setup-------------->
+
+1. Integrate better auth. By using better.auth.com website.
+(npm install better-auth@1.2.8)
+
+2. follow given steps for installation to setup.
+
+3. create better auth instance.
+
+4. configure auth schema (-push changes)
+
+here app/api/auth/[...all]/route.ts  
+
+here [...all] mean all type of route (universal)
+
+5. create basic UI   (-- create new user)
+
+about all better-auth working exprience (signUp,signOut)
+
+
 
 
 
